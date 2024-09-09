@@ -2,6 +2,9 @@
 
 ---
 ### Мои контакты:
+<a href="https://t.me/sixxty">
+    <img alt="Static Badge" src="https://img.shields.io/badge/telegram-blue">
+</a>
 ---
 ### ⚙ Я использую технологии:  
 <p align="left">
