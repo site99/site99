@@ -1,6 +1,7 @@
 <h3 align:left> 
   Привет 👋, меня зовут Артур
 </h3>
+![image](https://github.com/user-attachments/assets/863e1886-e11a-4b8f-845c-168a5e4392e6)
 
 ---
 
